@@ -19,7 +19,7 @@ This repository contains the assets required to build the [ FINADEL ](https://fi
 
 
 <h3 align="center">Intro Page </h3>
-<img width="1440" alt="Intro Page" src="https://user-images.githubusercontent.com/86067292/187045982-d0ede631-0bf6-44c2-bda0-c6ef4ca64353.png">
+<img width="1043" alt="Screenshot 2023-04-30 at 11 57 52 AM" src="https://user-images.githubusercontent.com/86067292/235339173-ff8b5ee5-35dc-40f0-b2dd-92a14d19e208.png">
 
 <h3 align="center"> User Portal </h3>
 <p align="center">
